@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ally-lh" alt="ally-lh" /></a> </p>
 
-- 🔭 I’m currently working on **YanJie's Website**
+- 🔭 I’m currently working on: **YanJie's Website**
 
-- 🌱 I’m currently learning **t3-stack, react native, app development, UI/UX**
+- 🌱 I’m currently learning: **t3-stack, react native, app development, UI/UX**
 
-- 🎟 I want to learn **GSAP!!!**
+- 🎟 I want to learn: **GSAP!!!**
 
-- 💬 Ask me about **react, or anything UI/UX related**
+- 💬 Ask me about: **react, or anything UI/UX related**
 
-- 📫 How to reach me **allisonloosg@gmail.com**
+- 📫 How to reach me: **allisonloosg@gmail.com**
 
-- ⚡ Fun fact **People think I am a design student**
+- ⚡ Fun fact: **I think I am a design student**
   
-- 👨‍💻 All of my projects are available at: [my portflio](https://allisonloosg.wixsite.com/allison)
+- 👨‍💻 All of my projects are available at: [my portfolio](https://allisonloosg.wixsite.com/allison)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
