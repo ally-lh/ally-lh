@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ally-lh" alt="ally-lh" /></a> </p>
 
-- 🔭 I’m currently working on: **YanJie's Website**
+- 🔭 I’m currently working on: **[CORDY!!!](https://app.cordy.sg)**
 
 - 🌱 I’m currently learning: **t3-stack, react native, app development, UI/UX**
 
